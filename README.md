@@ -6,7 +6,7 @@
 
 [![aws-cloud-quest-cloud-practitioner (1)](https://github.com/user-attachments/assets/a05b3430-d272-4550-bbf1-050310eafb5f)](https://www.credly.com/badges/7acd8917-cbf3-48ad-893c-c1b7f046ef4b/public_url)
 [![aws-cloud-quest-solutions-architect (1)](https://github.com/user-attachments/assets/efb859fe-08b5-4fdc-b13f-984d38c5bb57)](https://www.credly.com/badges/2038275a-9084-4f59-b744-e704178a7bcc/public_url)
-[![aws-cloud-quest-solutions-architect (1)](https://github.com/user-attachments/assets/efb859fe-08b5-4fdc-b13f-984d38c5bb57)](https://www.credly.com/badges/0ec3a2ec-d109-4f5e-9b17-a638f21776a0/public_url)
+
 
 
 
